@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/alexedwards/scs/v2 v2.5.1
-	github.com/cheshir/ttlcache v1.0.1-0.20220504185148-8ceeff21b789
+	github.com/cheshir/ttlcache v1.0.1-0.20221002173632-b6c15c9a2f4a
 	github.com/coreos/go-oidc/v3 v3.4.0
 	github.com/fluxcd/cli-utils v0.36.0-flux.2
 	github.com/fluxcd/go-git-providers v0.16.0
